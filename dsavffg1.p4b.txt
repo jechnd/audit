@@ -1,0 +1,14 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	new file:   django/auditoria/auditoria/__init__.py
+#	new file:   django/auditoria/auditoria/settings.py
+#	new file:   django/auditoria/auditoria/urls.py
+#	new file:   django/auditoria/auditoria/wsgi.py
+#	new file:   django/auditoria/manage.py
+#
+
